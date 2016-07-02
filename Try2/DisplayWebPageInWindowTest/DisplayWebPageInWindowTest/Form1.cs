@@ -42,7 +42,7 @@ namespace DisplayWebPageInWindowTest
             //If there aren't it will sign in, the screen will change on the right to show the calendar and the left will 
             //be ready for the user to open a file or web page html so that they can add the events.
             //The program will have an auto search for important details, however it is best to manually scrape first.
-            
+
             //Later projects will include voice recognition, Amazon Echo (Alexa), actually Google API commands and etc.
             //When actually using Google API, it'd be cool to have the calendar refresh to display the changes, it'd 
             //also be cool to refresh the page to display changes when talking with Alexa and display a manual option as well.
