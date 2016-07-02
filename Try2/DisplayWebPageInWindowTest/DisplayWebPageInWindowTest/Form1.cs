@@ -15,6 +15,11 @@ namespace DisplayWebPageInWindowTest
         public Form1()
         {
             InitializeComponent();
+
+            //Saving this project into Git has been a real hassel so far; I'm now attempting to put this project back up one directory, 
+            //based on what I saw on GitHub.
+
+            //Will this finally commit Try2 to the TryOuts repository?
             //This program is to test to see how to open a web page in a windows form application.
             //Future revisions will test how to give a url and search for and open it in the window,
             //how to verify that a web page actually exists before searching for and displaying it, 
