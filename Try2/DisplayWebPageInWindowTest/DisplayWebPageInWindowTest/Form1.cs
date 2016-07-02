@@ -36,6 +36,7 @@ namespace DisplayWebPageInWindowTest
             //calendar, on the right will be Google Calendar, and before anything loads, there will be a login on the form which will 
             //be used to log in to Google Calendar (they should not be able to navigate to anywhere else but their google calendar (meaning 
             //there will be no search engine).
+
             //The login should have a search to verify that it is going only to Google Calendar.
             //This means that there should be a place to store the url.  It will verify it and then send the email and 
             //password in and verify them and then will prompt the user if there are any problems. 
